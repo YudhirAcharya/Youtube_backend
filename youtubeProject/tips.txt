@@ -1,0 +1,2 @@
+always wrap database in try and catch
+think database is in another continent. i.e. it takes time so use async await.
